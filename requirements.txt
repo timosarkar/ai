@@ -1,3 +1,4 @@
 langchain
 langchain-ollama
 duckduckgo-search
+langchain-experimental
